@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Build files
+dist/
+build/
+out/
+*.log
+
+# Prettier
+*.orig
+*.bak
+*.swp
+*.tmp
+
+# PostCSS
+.cache/
