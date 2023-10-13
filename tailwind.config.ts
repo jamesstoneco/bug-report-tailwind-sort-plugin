@@ -4,7 +4,7 @@ const Config = {
   content: ['./src/**/*.{js,ts,jsx,tsx,mdx}'],
   theme: {
   },
-  plugins: [import('prettier-plugin-tailwindcss')],
+  plugins: [],
 };
 
 export default Config;
